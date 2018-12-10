@@ -304,7 +304,7 @@ Almost all endpoints are protected by authentication and will require a valid JW
     
 ## Deployment
 
-Talent Buyer API is deployed through [Heroku](https://www.heroku.com/) and hosted at [https://talent-buyer-api.herokuapp.com/](https://talent-buyer-api.herokuapp.com/).
+Talent Buyer API is deployed through [Netlify](https://www.netlify.com/) and hosted at [https://talent-buyer.netlify.com/](https://talent-buyer.netlify.com/).
 
 ## Built With
 
